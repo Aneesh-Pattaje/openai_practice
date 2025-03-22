@@ -9,7 +9,7 @@ def generate_output(input):
     messages= [
         {
             "role" : "System",
-            "content" : """As a Product Description Generator, Generate multi paragraph rich text product description with emojis from the information provided to you' \n"""
+            "content" : "Provide movie cast details for the user input movie name \n"
 
         }
     ]
