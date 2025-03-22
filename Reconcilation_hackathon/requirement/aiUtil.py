@@ -2,7 +2,7 @@ import openai
 from openai import OpenAI
 
 client = OpenAI(
-  api_key="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"
+  api_key=""
 )
 
 def generate_output(input):
