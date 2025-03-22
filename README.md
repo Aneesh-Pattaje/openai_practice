@@ -3,7 +3,8 @@ test ai
 
 python3 - cmd <Enter>
 
-python -m venv example 
+python -m venv example
+
 cd .\requirement\  
 pip install -r .\req.txt
 
